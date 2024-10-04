@@ -254,3 +254,19 @@ body{
 #menu6 img{
     margin-top: 28px;
 }
+
+#vantagens6{
+    display: flex;
+}
+
+.options{
+    border: solid red;
+}
+
+.options h1{
+    font-size: 1px;
+}
+
+#icons{
+    font-size: 50px;
+}
