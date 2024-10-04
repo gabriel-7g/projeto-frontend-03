@@ -217,6 +217,7 @@ body{
 #icones_5{
     display: flex;
     margin-top: 50px;
+    margin-left: 80px;
 }
 
 .texto5{
@@ -232,4 +233,38 @@ body{
 .texto5 p{
     color: #7A869A;
     margin-top: -5px;
+}
+
+#menu6{
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+#menu6 h1{
+    font-size: 57px;
+    margin-top: -10px;
+}
+#menu6 p{
+    margin-top: -10px;
+    font-size: 20px;
+}
+
+#menu6 img{
+    margin-top: 28px;
+}
+
+#vantagens6{
+    display: flex;
+}
+
+.options{
+    border: solid red;
+}
+
+.options h1{
+    font-size: 1px;
+}
+
+#icons{
+    font-size: 50px;
 }
